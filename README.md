@@ -1,1 +1,0 @@
-# divergencymcr.github.io

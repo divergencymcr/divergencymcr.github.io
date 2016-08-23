@@ -1,1 +1,1 @@
-# divergencymcr.github.com
+# divergencymcr.github.io

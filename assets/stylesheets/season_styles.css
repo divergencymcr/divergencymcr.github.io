@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default site styling: Orange background & no quote colour
+/* default site styling: Orange background, header & no quote colour
 ------------------------------------------------------*/
 
 	body,
@@ -22,4 +22,16 @@
 		{background:#000; color:#f93;}
 
 	.splash
-		{background:url(../images/header_div_tr.jpg) center center}
+		{background:url(../images/header_div_or.jpg) center center}
+
+/* Artists use white header
+------------------------------------------------------*/
+
+	.ar .splash
+		{background:url(../images/header_div_wh.jpg) center center}
+
+/* Events use Chanje + logo header 
+------------------------------------------------------*/
+
+	.ev .splash
+		{background:url(../images/header_div_chanje.jpg) center center}

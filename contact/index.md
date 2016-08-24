@@ -1,15 +1,11 @@
 ---
 
 # CONFIGURATION
-layout: hab
+layout: contact
 rootpath: "../../"
 is_index: true
 
 ---
-### Contact details         
-Who here?        
+Based in the hÅb office at Z-arts, Manchester, we can be reached by email: <mailto:divergency@habmcr.org>        
         
-### Links        
-hÅb + Word of Warning        
-Sustained Theatre Up North (STUN)         
-Black Gold Arts Festival
+On the right, please see links to our current partner organisations: hÅb | Word of Warning, STUN (Sustained Theatre Up North) + Black Gold Arts Festival.        

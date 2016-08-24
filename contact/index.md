@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 layout: contact
-rootpath: "../"
+rootpath: "../../"
 is_index: true
 
 ---

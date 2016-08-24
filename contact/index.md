@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: div
+layout:
 rootpath: "../../"
 is_index: true
 

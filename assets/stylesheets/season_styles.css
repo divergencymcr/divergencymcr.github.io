@@ -1,51 +1,25 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default divergency styling White
+/* default site styling: Orange background & no quote colour
 ------------------------------------------------------*/
 
 	body,
 	.artist, 
 	.show,
 	.season
-		{background:#fff; color:#111;}
-
-	blockquote
-		{border-left-color:#999;}
-	blockquote, blockquote p
-		{color: #999;}
+		{background:#f93; color:#119;}
 
 	a,
 	a:visited,
 	a:hover
-		{color:#666;}
+		{color:#000;}
 	article a:hover,
 	footer a:hover,
 	nav a:hover
-		{background: #000; color: #fff;}
+		{background: #000; color: #f93;}
 		
 	a.splash:hover .artist
-		{background:#000; color:#fff;}
+		{background:#000; color:#f93;}
 
 	.splash
-		{background:url(../images/header_divergency.jpg) center center}
-
-/* divergency orange
-------------------------------------------------------*/
-		
-	.div,
-	.div .artist, 
-	.div .show,
-	.div .season
-		{background:#f93; color:#000;}
-
-	.div a,
-	.div a:visited,
-	.div a:hover
-		{color:#000;}
-	.div nav a:hover,
-	.div article a:hover,
-	.div footer a:hover
-		{background: #000; color: #f93;}
-
-	.div .splash
-		{background:url(../images/header_divergency.jpg) center center}
+		{background:url(../images/header_div_tr.jpg) center center}

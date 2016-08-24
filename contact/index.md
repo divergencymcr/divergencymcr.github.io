@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout:
+layout: hab
 rootpath: "../../"
 is_index: true
 

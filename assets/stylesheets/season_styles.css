@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default divergency styling
+/* default divergency styling White
 ------------------------------------------------------*/
 
 	body,
@@ -27,34 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_divergency.jpg) -150px center}
-
-/* hAb black
-------------------------------------------------------*/
-
-	.hab,
-	.hab .artist, 
-	.hab .show,
-	.hab .season
-		{background:#000; color:#fff;}
-
-	.hab a,
-	.hab a:visited,
-	.hab a:hover
-		{color:#fff;}
-	.hab nav a:hover,
-	.hab article a:hover,
-	.hab footer a:hover
-		{background: #fff; color: #000;}
-
-	.hab .splash
-		{background:url(../images/header_hab_photo.jpg) center center}
-
-/* Autumn/Winter 2016 Programme colour tbc
-------------------------------------------------------*/
-
-	.aw2016 .splash
-		{background:url(../images/header_ss2014wrn.jpg) -150px center}
+		{background:url(../images/header_divergency.jpg) center center}
 
 /* divergency orange
 ------------------------------------------------------*/
@@ -75,4 +48,4 @@
 		{background: #000; color: #f93;}
 
 	.div .splash
-		{background:url(../images/header_chanje.jpg) center center}
+		{background:url(../images/header_divergency.jpg) center center}

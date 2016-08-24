@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: hab
+layout: artists
 rootpath: "../../"
 is_index: true
 

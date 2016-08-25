@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: artist
+layout:
 rootpath: "../../"
 is_index: true
 

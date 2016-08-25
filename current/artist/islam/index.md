@@ -17,7 +17,7 @@ header_image: "header_afreena.jpg"
 ---
 Afreena calls herself an artist only when she's got something to say. The rest of the time she produces stuff, researches stuff, performs in stuff, sits on boards and eats posh sandwiches.             
          
-*Daughters of the Curry Revolution* is her first solo work, which has been developed through Divergency + Works Ahead…        
+Her first solo work has been developed through Divergency and Works Ahead…        
          
 #### *Daughters of the Curry Revolution*         
 "When I was little, I used to hang out at my dad's restaurant most weekends, back when they used to stay open until 5am. After a hard day's toil running around pretending to be him, I would fall asleep to the CCTV, my body on the chest freezer and my head resting on a pile of tablecloths."              
@@ -32,8 +32,9 @@ In an intimate performance, Afreena invites you to take a seat around her dinner
              
 "I've never told my dad that I love him and it would be contrived if I ever did. We're not a very lovey-dovey family. But I guess this performance is something of a love letter, maybe?"                 
          
-Peader Kirk — Mentor (Works Ahead)            
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). A Works Ahead 2016 hÅb + Contact commission.        
+Peader Kirk — Works Ahead Mentor            
+A Works Ahead 2016 hÅb + Contact commission.            
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).         
          
 >*…such an engaging performer / host, and a striking story to tell.*<br>Brian Logan, Director, Camden People's Theatre                
 >*I was deeply moved by Daughters of the Curry Revolution, an important work that takes courage to make and share.*<br>Ria Hartley, Artist                

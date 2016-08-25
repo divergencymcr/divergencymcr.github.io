@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: ev
+layout: event
 rootpath: "../../"
 is_index: true
 

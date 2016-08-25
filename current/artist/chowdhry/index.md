@@ -17,14 +17,17 @@ header_image: "header_chowdhry.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Maya Chowdhry is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences. Her recent work includes *What is Lunch for*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.               
+Maya Chowdhry is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences.          
+         
+Maya's recent work includes *What is Lunch for*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.               
          
 #### *Peas on Earth*                
 How does the food on our tables reach us? The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.               
          
 *Peas on Earth* is an immersive journey exploring the performance of eating, growing and sustaining ourselves, brought to life through Augmented Reality.        
          
-Maya Chowdhry — Writer and Transmedia artist | Niki Woods — Performance mentor          
+Maya Chowdhry — Writer and Transmedia artist         
+Niki Woods — Performance mentor          
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).              
          
 >*Maya is a writer of talent and has the ability to both craft a strong narrative whilst exploiting the potency and poetry of language.*<br>Kully Thiarai, Artistic Director, National Theatre Wales         

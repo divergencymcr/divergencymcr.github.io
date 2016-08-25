@@ -61,4 +61,4 @@ Divergency is primarily an adult-focussed event, some works will not be suitable
           
 #### Credits         
 Divergency is an onging artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
-<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a> | <a href="http://stunlive.com" target="_blank">STUN</a> | <a href="http://wordofwarning.org" target="_blank">Word of Warning</a>
+<a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a> | <a href="http://stunlive.com" target="_blank">STUN</a> | <a href="http://wordofwarning.org" target="_blank">Word of Warning</a>

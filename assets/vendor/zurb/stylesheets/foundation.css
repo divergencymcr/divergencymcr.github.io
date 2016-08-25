@@ -91,17 +91,17 @@ ul.no-bullet { list-style: none; }
 ul.large li { line-height: 21px; }
 
 /* Blockquotes ---------------------- */
-blockquote, blockquote p { line-height: 1.5; color: #00a; }
+blockquote, blockquote p { line-height: 1.5; color: #000; }
 
-blockquote { margin: 0 0 17px; padding: 9px 20px 0 19px; border-left: 1px solid #a00; }
+blockquote { margin: 0 0 17px; padding: 9px 20px 0 19px; border-left: 1px solid #630; }
 
-blockquote cite { display: block; font-size: 13px; color: #0a0; }
+blockquote cite { display: block; font-size: 13px; color: #000; }
 
 blockquote cite:before { content: "\2014 \0020"; }
 
-blockquote cite a, blockquote cite a:visited { color: #0a0; }
+blockquote cite a, blockquote cite a:visited { color: #000; }
 
-abbr, acronym { text-transform: uppercase; font-size: 90%; color: #222; border-bottom: 1px solid #ddd; cursor: help; }
+abbr, acronym { text-transform: uppercase; font-size: 90%; color: #000; border-bottom: 1px solid #fff; cursor: help; }
 
 abbr { text-transform: none; }
 

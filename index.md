@@ -3,4 +3,4 @@
 layout: home
 
 ---
-#### Join us on Thursday 6 October for an [evening of the different](/current/event/divergency) in Manchester.
+#### Join us on Thursday 6 October for an [evening of the different](/current/event/Divergency) in Manchester.

@@ -19,7 +19,7 @@ header_image: "header_chowdhry.jpg"
 ---
 Maya Chowdhry is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences.          
          
-Maya's recent work includes *What is Lunch for*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.               
+Maya's recent work includes *What is Lunch for*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester; she is currently working on…                      
          
 #### *Peas on Earth*                
 How does the food on our tables reach us? The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.               

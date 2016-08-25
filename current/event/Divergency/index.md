@@ -26,7 +26,7 @@ From the earth beneath our feet to the stars in our skies, an evening of emergin
          
 ### Installation, 6-8.30pm. FREE            
 **Jamil Keating | *Asteroid RK1***        
-**Chelsea Morgan**         
+**Chelsea Morgan | *Tented***             
 **Yvonne Shelton | *Testimony***         
          
 ### Tabletop Trio, 6pm. £6/3      
@@ -60,5 +60,5 @@ Venue (Z-arts) Tel: 0161 232 6089
 Divergency is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.          
           
 #### Credits         
-Divergency is an onging artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
+Header image: Chanje Kunda          
 <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a> | <a href="http://stunlive.com" target="_blank">STUN</a> | <a href="http://wordofwarning.org" target="_blank">Word of Warning</a>

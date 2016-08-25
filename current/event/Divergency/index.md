@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2016-divergency
+layout: ev
 rootpath: "../../"
 is_index: true
 

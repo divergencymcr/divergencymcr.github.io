@@ -34,4 +34,4 @@ Supported by Contact, and hÅb + STUN through Divergency.
 Supported using public funding by the National Lottery through Arts Council England.           
          
 #### Websites         
-<a href="http://www.facebook.com/serialdiva" target="_blank">Yvonne Shelton on facebook</a> | <a href="http://twitter.com/yvonneshelton" target="_blank">@yvonneshelton</a> | <a href="http://www.bgafestival.com/" target="_blank">bgafestival.com</a>
+<a href="http://twitter.com/yvonneshelton" target="_blank">@yvonneshelton</a> | <a href="http://www.bgafestival.com/" target="_blank">bgafestival.com</a>

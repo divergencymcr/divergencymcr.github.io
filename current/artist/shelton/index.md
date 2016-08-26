@@ -21,15 +21,16 @@ Yvonne Shelton is a multitalented artist, who has worked extensively in the musi
 She has worked with The BBC Philharmonic and the Hallé, is the vocalist for the critically acclaimed Haçienda Classical, and has been in love with music all her life. Her current work is supported by Divergency…            
          
 #### *Testimony*
-An intersection of music, dance, light and digital image-mapping in a visceral audio-visual landscape.       
+An intersection of music, dance, light and digital image-mapping in a visceral audio-visual landscape — *Testimony* explores the possibilities of language and movement, transforming meaning to reach a higher state of awareness.          
          
-Exploring the possibilities of language and movement, transforming meaning to reach a higher state of awareness. Presented in a black space, Yvonne creates verses; a Gospel Choir sings; and A Guy Called Gerald produces a visceral computer-based composition, in four parts.          
+Presented in a black space, Yvonne creates verses; a Gospel Choir sings; and A Guy Called Gerald produces a visceral computer-based composition, in four parts.          
          
 Directed by Darren Pritchard. Produced by Jayne Compton.           
 Collaborators include Jimi Goodwin, Chad Taylor & A Guy Called Gerald.            
 Mentors: Keisha Thompson, Reece Williams & Cheryl Martin.            
          
-Part of Black Gold Arts Festival's 'New Work Series'. Supported by Contact, and hÅb + STUN through Divergency.         
+Part of Black Gold Arts Festival's 'New Work Series'.          
+Supported by Contact, and hÅb + STUN through Divergency.         
 Supported using public funding by the National Lottery through Arts Council England.           
          
 #### Websites         

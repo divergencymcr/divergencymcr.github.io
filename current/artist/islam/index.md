@@ -8,6 +8,7 @@ rootpath: "../../../"
 artist: "Afreena Islam"
 artist_size: 1
 header_image: "header_afreena.jpg"
+season: "Afreena Islam"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values

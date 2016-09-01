@@ -32,7 +32,8 @@ Niki Woods — Performance mentor
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).              
          
 >*Maya is a writer of talent and has the ability to both craft a strong narrative whilst exploiting the potency and poetry of language.*<br>Kully Thiarai, Artistic Director, National Theatre Wales         
->*Maya understands the potential of cutting edge technology, and uses it creativity to tell stories that engage and immerse audiences in new and exciting ways*<br>Karen Shannon, Director, Let's Go Forward to Kaahini        
+>*Maya understands the potential of cutting edge technology, and uses it creativity to tell stories that engage and immerse audiences in new and exciting ways*<br>Karen Shannon, Director, Let's Go    
+ About *Kaahini*:           
 >*A highly original yet thoroughly accessible insight into what it means to be young, Asian and British. Filled with the powerful and contradictory emotions of adolescence, Kaahini is brightly coloured, full of warmth and feeling, and shot through with the darker threads of frustration and anger at the inflexible and inexplicable adult world. This play, for all its seemingly unfamiliar Asian context, speaks directly to the widest possible audience - anyone with a mother, father, son, daughter, friend or lover will find much to challenge and inspire them here.*<br>John McGrath, Artistic Director, Manchester International Festival         
          
 #### Websites          

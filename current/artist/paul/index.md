@@ -5,7 +5,7 @@ layout: artist
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Toni-Dee"
+artist: "Toni-Dee Paul"
 artist_size: 1
 header_image: "header_toni.jpg"
 season: Toni-Dee

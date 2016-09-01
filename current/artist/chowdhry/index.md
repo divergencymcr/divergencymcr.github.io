@@ -29,8 +29,8 @@ How does the food on our tables reach us? The domestication of the pea took plac
          
 Maya Chowdhry — Writer and Transmedia artist         
 Niki Woods — Performance mentor          
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).              
-         
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).     Supported using public funding by the National Lottery through Arts Council England.     
+       
 >*Maya is a writer of talent and has the ability to both craft a strong narrative whilst exploiting the potency and poetry of language.*<br>Kully Thiarai, Artistic Director, National Theatre Wales         
 >*Maya understands the potential of cutting edge technology, and uses it creativity to tell stories that engage and immerse audiences in new and exciting ways*<br>Karen Shannon, Director, Let's Go    
  About *Kaahini*:           

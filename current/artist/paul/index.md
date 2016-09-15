@@ -21,7 +21,7 @@ Toni-Dee is a theatre maker, collaborator, writer and performance artist from Le
 Her current body of work explores identity politics, memory and culture — which is intimate, literate and participatory using auto-biography as stimuli. She has been previously been commissioned by Fuel Productions Ltd, and worked with artists such as Andy Smith and Selina Thompson. Her current show has been developed through Divergency…        
          
 #### *My Father's Kitchen*        
-*So welcome, welcome to my father's kitchen… Or at least, this is how I remember it…*         
+*So welcome, welcome to my father's kitchen…<br>Or at least, this is how I remember it…*         
          
 Toni-Dee's performance explores home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen. The show examines the relationship, between an 8 year old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory, music & poetry.         
             

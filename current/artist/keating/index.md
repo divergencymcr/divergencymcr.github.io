@@ -5,10 +5,10 @@ layout: artist
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Jamil Keating"
+artist: "Jamil E-R Keating"
 artist_size: 1
 header_image: "header_jamil.jpg"
-season: "Jamil Keating"
+season: "Jamil E-R Keating"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,7 +16,7 @@ season: "Jamil Keating"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Jamil Keating is an emerging theatre-maker, writer and performer. *Asteroid RK1* is his fourth piece of work, the fourth step in an artistic journey of trying to find the balance between being overwhelmed by a perverse enthusiasm for the absurdity of life, and trying to say something of substance about it… simply.           
+Jamil E-R Keating is an emerging theatre-maker, writer and performer. *Asteroid RK1* is his fourth piece of work, the fourth step in an artistic journey of trying to find the balance between being overwhelmed by a perverse enthusiasm for the absurdity of life, and trying to say something of substance about it… simply.           
          
 To date he has made small pieces for Hazard (as Tracey Lumpkin) and Emergency, received a Works Ahead commission from hÅb + Contact, collaborated as dramaturg on a performance at The Royal Exchange, assistant directed for Contact, curated performances at Manchester Art Gallery and been an emerging artist in residence at the Whitworth.       
          

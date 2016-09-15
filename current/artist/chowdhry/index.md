@@ -23,18 +23,18 @@ Maya Chowdhry is an inTer-aCtive artist, theatre-maker and Transmedia writer. He
 Maya's recent work includes *What is Lunch for*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester; she is currently working on…                      
          
 #### *Peas on Earth*                
-How does the food on our tables reach us? The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.               
+How does the food on our tables reach us? The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.               
          
 *Peas on Earth* is an immersive journey exploring the performance of eating, growing and sustaining ourselves, brought to life through Augmented Reality.        
          
 Maya Chowdhry — Writer and Transmedia artist         
 Niki Woods — Performance mentor          
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).     Supported using public funding by the National Lottery through Arts Council England.     
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.     
        
 >*Maya is a writer of talent and has the ability to both craft a strong narrative whilst exploiting the potency and poetry of language.*<br>Kully Thiarai, Artistic Director, National Theatre Wales         
->*Maya understands the potential of cutting edge technology, and uses it creativity to tell stories that engage and immerse audiences in new and exciting ways*<br>Karen Shannon, Director, Let's Go    
- About *Kaahini*:           
->*A highly original yet thoroughly accessible insight into what it means to be young, Asian and British. Filled with the powerful and contradictory emotions of adolescence, Kaahini is brightly coloured, full of warmth and feeling, and shot through with the darker threads of frustration and anger at the inflexible and inexplicable adult world. This play, for all its seemingly unfamiliar Asian context, speaks directly to the widest possible audience - anyone with a mother, father, son, daughter, friend or lover will find much to challenge and inspire them here.*<br>John McGrath, Artistic Director, Manchester International Festival         
+>*Maya understands the potential of cutting edge technology, and uses it creativity to tell stories that engage and immerse audiences in new and exciting ways*<br>Karen Shannon, Director, Let's Go Global        
+About *Kaahini*:           
+>*A highly original yet thoroughly accessible insight into what it means to be young, Asian and British. Filled with the powerful and contradictory emotions of adolescence, Kaahini is brightly coloured, full of warmth and feeling, and shot through with the darker threads of frustration and anger at the inflexible and inexplicable adult world. This play, for all its seemingly unfamiliar Asian context, speaks directly to the widest possible audience — anyone with a mother, father, son, daughter, friend or lover will find much to challenge and inspire them here.*<br>John McGrath, Artistic Director, Manchester International Festival         
          
 #### Websites          
-<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://facebook.com/mayachowdhry" target="_blank">facebook.com/mayachowdhry</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a>
+<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://facebook.com/maya.chowdhry" target="_blank">facebook.com/maya.chowdhry</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a>

@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Jamil E-R Keating"
-artist_size: 1
+artist_size: 2
 header_image: "header_jamil.jpg"
 season: "Jamil E-R Keating"
 

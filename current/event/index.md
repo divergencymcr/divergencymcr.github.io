@@ -21,9 +21,7 @@ season: "Thu 6 Oct 2016"
 *Presented by* Word of Warning, STUN + Black Gold Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
-An evening of tabletop performances, installations + sit-down shows featuring: Maya Chowdhry, Jamil E-R Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul and Yvonne Shelton.             
-         
-From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
+An evening of tabletop performances, installations + sit-down shows, featuring:             
          
 **Installation: 6-8.30pm. FREE**            
 Jamil E-R Keating | *Asteroid RK1*        
@@ -38,6 +36,8 @@ Toni-Dee Paul | *My Father's Kitchen*
 **Double Bill, 8.30pm. £6/3**          
 Chanje Kunda | *Superposition*         
 Cheryl Martin | *Who Wants to Live Forever (extract)*          
+         
+From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
 #### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        

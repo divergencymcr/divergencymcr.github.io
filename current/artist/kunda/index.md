@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Chanje Kunda"
 artist_size: 1
 header_image: "header_chanjenl.jpg"
-season: Chanje Kunda
+season: "Chanje Kunda"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -30,8 +30,7 @@ Unlikely bed-fellows quantum mechanics, existentialism and erotic dance combine 
 "People assume that people lap-dance just because they really need the money and have no other options, through circumstance or education. So, as quite a bookish, published poet, why on earth did I decide to do a lap-dancing course? The truth is I absolutely fell in love with it as a performance style and means of self-expression. This led me to think about my body as a black woman and how I can find ways of exploring the ownership of it, and I came up with the central question of 'how is a black woman's sex like quantum mechanics and existentialism?' This is my attempt to answer it…"       
          
 Developed with Director Benji Reid + Dramaturg Malika Booker.          
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN.         
-Supported using public funding by the National Lottery through Arts Council England.        
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN. Supported using public funding by the National Lottery through Arts Council England.        
          
-#### Website          
-<a href="http://www.chanjekunda.com" target="_blank">chanjekunda.com</a>
+#### Websites          
+<a href="http://www.chanjekunda.com" target="_blank">chanjekunda.com</a> | <a href="http://facebook.com/Chanje-Kunda-Page-196097173743336" target="_blank">Chanje Kunda on Facebook</a> | <a href="http://twitter.com/ChanjeKunda" target="_blank">@ChanjeKunda</a>

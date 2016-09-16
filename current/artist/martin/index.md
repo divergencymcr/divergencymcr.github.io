@@ -29,7 +29,7 @@ Created through heightened, imagistic language in a non-linear, impressionistic 
          
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North); supported through the Black Gold Arts Festival and an Artist Residency at Lawrence Batley Theatre Cellar.         
          
->*I was deeply moved… Utterly devastating personal moments felt like they were being shared with only me. Cheryl is an incredibly powerful performer, she paints pictures so vividly, and this story in particular leaves me aching.*<br>Afreena Islam, Artist             
+>*I was deeply moved… Utterly devastating personal moments felt like they were being shared with only me. Cheryl is an incredibly powerful performer, she paints pictures so vividly, and this story in particular leaves me aching.*<br>Afreena Islam, Artist       
          
 #### Websites          
 <a href="http://www.cherylmartin.net" target="_blank">cherylmartin.net</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a>

@@ -29,6 +29,7 @@ How does the food on our tables reach us? The domestication of the pea took plac
          
 Maya Chowdhry — Writer and Transmedia artist         
 Niki Woods — Performance mentor          
+Caro C — Sound Engineer            
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.     
        
 >*Maya is a writer of talent and has the ability to both craft a strong narrative whilst exploiting the potency and poetry of language.*<br>Kully Thiarai, Artistic Director, National Theatre Wales         
@@ -37,4 +38,4 @@ About *Kaahini*:
 >*A highly original yet thoroughly accessible insight into what it means to be young, Asian and British. Filled with the powerful and contradictory emotions of adolescence, Kaahini is brightly coloured, full of warmth and feeling, and shot through with the darker threads of frustration and anger at the inflexible and inexplicable adult world. This play, for all its seemingly unfamiliar Asian context, speaks directly to the widest possible audience — anyone with a mother, father, son, daughter, friend or lover will find much to challenge and inspire them here.*<br>John McGrath, Artistic Director, Manchester International Festival         
          
 #### Websites          
-<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://facebook.com/maya.chowdhry" target="_blank">facebook.com/maya.chowdhry</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a>
+<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://facebook.com/maya.chowdhry" target="_blank">facebook.com/maya.chowdhry</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a> | <a href="http://www.carocsound.com" target="_blank">carocsound.com</a>

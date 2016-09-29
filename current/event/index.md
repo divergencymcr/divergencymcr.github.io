@@ -59,6 +59,9 @@ Date: Thursday 6 October 2016, 8.30pm
 <a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983129" target="_blank">Tickets: £6/3</a>               
 Venue (Z-arts) Tel: 0161 232 6089       
          
+#### What people have said about Divergency         
+Divergency is previewed in the <a href="http://www.britishtheatreguide.info/news/marathon-events-for-manchester-6762" target="_blank">British Theatre Guide</a> + <a href="http://manchesterwire.co.uk/#!/free-performance-art-word-of-warning-at-z-arts-ft-29-events-in-11-hrs" target="_blank">Manchester Wire</a>, and recommended by <a href="http://quietmandave.co.uk/2016/09/october-theatre" target="_blank">QuietManDave</a>.         
+         
 #### Access Information        
 Divergency is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
           

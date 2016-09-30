@@ -29,7 +29,7 @@ Unlikely bed-fellows quantum mechanics, existentialism and erotic dance combine 
          
 "People assume that people lap-dance just because they really need the money and have no other options, through circumstance or education. So, as quite a bookish, published poet, why on earth did I decide to do a lap-dancing course? The truth is I absolutely fell in love with it as a performance style and means of self-expression. This led me to think about my body as a black woman and how I can find ways of exploring the ownership of it, and I came up with the central question of 'how is a black woman's sex like quantum mechanics and existentialism?' This is my attempt to answer it…"       
          
-Developed with Director Benji Reid + Dramaturg Malika Booker.  
+Writer + performer: Chanje Kunda | Performance Development: Benji Reid | Dramaturge: Malika Booker | Movement Consultant: Fay Warne                
 Header image: Chanje Kunda from
 <a href="https://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.        
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN. Supported using public funding by the National Lottery through Arts Council England.        

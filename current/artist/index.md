@@ -7,7 +7,7 @@ is_index: true
 season: "current artists"
 
 ---
-test Divergency is an informal network, supporting a small group of culturally diverse artists to explore live art in their practice. Bringing together both new artists and those experienced in different artforms, Divergency is a year-round programme of exploring and making, watching and talking.        
+Divergency is an informal network, supporting a small group of culturally diverse artists to explore live art in their practice. Bringing together both new artists and those experienced in different artforms, Divergency is a year-round programme of exploring and making, watching and talking.        
 
 We meet, we talk, we eat (often), we see work and we explore – through a series of workshops led by both the group and invited guest artists.        
 

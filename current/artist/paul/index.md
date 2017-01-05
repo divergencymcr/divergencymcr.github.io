@@ -16,13 +16,14 @@ season: Toni-Dee
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds. Her practice explores identity politics, memory and culture using auto-biography as stimulus for her work thus far. Toni has previously been commissioned by Fuel and has toured her mono-dialogue *Rum Punch* around the North of England; she has also worked with artists such as Andy Smith and Selina Thompson. Her current show has been developed through Divergency…        
+Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds. Her current practice explores identity politics, memory and culture using auto-biography as stimulus for her work thus far. Toni has previously been commissioned by Fuel and has toured her mono-dialogue *Rum Punch* around the North of England; she has also worked with artists such as Andy Smith and Selina Thompson. Her current show has been developed through Divergency…        
          
 #### *My Father's Kitchen*        
 *So welcome, welcome to my father's kitchen…<br>Or at least, this is how I remember it…*         
          
-Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between an 8-year-old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory & poetry.       
-*My Fathers Kitchen* is currently a 20 minute work-in-progress piece of spoken word theatre, at its half-way mark in development. The piece was originally devised in collaboration with an academic brief, and an exploration into personal genealogy alongside the history of colonial islands, which shaped the initial research of the work. Toni-Dee is due to develop the work over 2017, commissioned by and presenting at both SICK! Festival and Works Ahead.       
+Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between a young black british daughter and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory & poetry.    
+      
+*My Father's Kitchen* is currently a 20 minute work-in-progress piece of spoken word theatre, at its half-way mark in development. The piece was originally devised in collaboration with an academic brief, and an exploration into personal genealogy alongside the history of colonial islands, which shaped the initial research of the work. Toni-Dee is due to develop the work over 2017, commissioned by and presenting at both SICK! Festival and Works Ahead.       
          
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).           
          

@@ -25,9 +25,7 @@ Exploring home-cooked food and family trees, whilst delving into the stories tha
       
 *My Father's Kitchen* is currently a 20 minute work-in-progress piece of spoken word theatre, at its half-way mark in development. The piece was originally devised in collaboration with an academic brief, and an exploration into personal genealogy alongside the history of colonial islands, which shaped the initial research of the work. Toni-Dee is due to develop the work over 2017, commissioned by and presenting at both SICK! Festival and Works Ahead.       
          
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).      
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TCN4QTD-1_0" frameborder="0" allowfullscreen></iframe>            
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).           
          
 >*An adventure through time, culture and cuisine. Delivered with emotion and empathy, this solo performance makes connections to personal and political issues and offers a taste into someone else's world.*<br>Audience member     
 >*…spins a yarn with such warmth and intimacy.*<br>Audience member     

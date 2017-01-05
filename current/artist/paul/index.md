@@ -21,9 +21,7 @@ Toni-Dee is a theatre maker, collaborator, writer and performance artist based i
 #### *My Father's Kitchen*        
 *So welcome, welcome to my father's kitchen…<br>Or at least, this is how I remember it…*         
          
-<iframe src="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>                
-           
-<iframe width="560" height="315" src="http://www.youtube.com/embed/TCN4QTD-1_0"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TCN4QTD-1_0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between a young black british daughter and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory & poetry.    
       

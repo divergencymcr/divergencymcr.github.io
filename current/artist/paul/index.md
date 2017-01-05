@@ -16,7 +16,7 @@ season: Toni-Dee
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds. Her current practice explores identity politics, memory and culture using auto-biography as stimulus for her work thus far. Toni has previously been commissioned by Fuel and has toured her mono-dialogue *Rum Punch* around the North of England; she has also worked with artists such as Andy Smith and Selina Thompson. Her current show has been developed through Divergency…        
+Toni-Dee is a theatre maker, collaborator, writer and performance artist based in Manchester. Her current practice explores identity politics, memory and culture using auto-biography as stimulus for her work thus far. Toni has previously been commissioned by Fuel and has toured her mono-dialogue *Rum Punch* around the North of England; she has also worked with artists such as Andy Smith and Selina Thompson. Her current show has been developed through Divergency…        
          
 #### *My Father's Kitchen*        
 *So welcome, welcome to my father's kitchen…<br>Or at least, this is how I remember it…*         

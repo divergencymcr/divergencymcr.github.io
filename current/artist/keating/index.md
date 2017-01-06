@@ -23,7 +23,7 @@ To date he has made small pieces for Hazard (as Tracey Lumpkin) and Emergency, r
 #### *Asteroid RK1*
 Rotations, revolutions, realisations…      
 
-<iframe width=“640" height="360” src="https://www.youtube.com/embed/6Vrnu78LFpY" frameborder="0" allowfullscreen></iframe>                
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Vrnu78LFpY?rel=0" frameborder="0" allowfullscreen></iframe>               
          
 An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.    
 

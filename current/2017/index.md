@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2017
+layout: 2017-events
 rootpath: "../../"
 is_index: true
 season: "2017 events"

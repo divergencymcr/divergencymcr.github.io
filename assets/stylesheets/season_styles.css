@@ -27,11 +27,11 @@
 /* 2016 Events use Chanje + Div logo header
 ------------------------------------------------------*/
 
-	.2016 .splash
+	.ev2016 .splash
 		{background:url(../images/header_div_chanje.jpg) center center}
 
-/* 2017 Events use white Div logo
+/* 2017 Events use lights in vase image
 ------------------------------------------------------*/
 
-	.2017 .splash
-		{background:url(../images/header_div_wh.jpg) center center}
+	.ev2017 .splash
+		{background:url(../images/header_diverg17.jpg) center center}

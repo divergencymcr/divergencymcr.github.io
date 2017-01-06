@@ -1,8 +1,8 @@
 ---
 
 # CONFIGURATION
-layout: event
-rootpath: "../../"
+layout: 2016
+rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC

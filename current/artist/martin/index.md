@@ -29,7 +29,7 @@ A jazz fantasy about loss, love and hope set among the stars. Combining science 
 
    
          
-Created through heightened, imagistic language in a non-linear, impressionistic monologue, *Who Wants To Live Forever* has been made by Writer/Performer Cheryl Martin + Director/Deviser Darren Pritchard.           
+Created through heightened, imagistic language in a non-linear, impressionistic monologue, *Who Wants To Live Forever* has been made by Writer/Performer Cheryl Martin + Director/Deviser Darren Pritchard. The full-length premiere of the show will be presented as part of PUSH Festival at HOME in January 2017.           
          
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North); supported through the Black Gold Arts Festival and an Artist Residency at Lawrence Batley Theatre Cellar.         
          

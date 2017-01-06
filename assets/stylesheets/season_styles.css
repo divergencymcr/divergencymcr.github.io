@@ -24,14 +24,14 @@
 	.splash
 		{background:url(../images/header_div.png) center center}
 
-/* Artists use TBD (don't use ar until we put in a header)
+/* 2016 Events use Chanje + Div logo header
 ------------------------------------------------------*/
 
-	.ar .splash
-		{background:url(../images/header???.jpg) center center}
-
-/* Events use Chanje + logo header
-------------------------------------------------------*/
-
-	.ev .splash
+	.2016 .splash
 		{background:url(../images/header_div_chanje.jpg) center center}
+
+/* 2017 Events use white Div logo
+------------------------------------------------------*/
+
+	.2017 .splash
+		{background:url(../images/header_div_wh.jpg) center center}

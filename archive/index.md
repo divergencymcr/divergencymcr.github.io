@@ -4,7 +4,7 @@ season: "archive"
 layout: archive
 
 archived:
-    - {name: "<a href='current/2016/6oct'>6 October 2016</a>", class: "ev2016"}
+    - name: "<a href='current/2016/6oct'>6 October 2016</a>", class: "ev2016"
             
 ---
 # Archive

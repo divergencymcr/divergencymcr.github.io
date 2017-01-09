@@ -5,7 +5,7 @@ layout: 2017-events
 rootpath: "../../"
 is_index: true
 season: "2017 events"
-artist: "<br><br>2017" # the name of the artist or company
+artist: "<br>2017" # the name of the artist or company
 artist_size: 1
 
 ---

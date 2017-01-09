@@ -1,9 +1,10 @@
 ---
 # CONFIGURATION
+season: "archive"
 layout: archive
 
 archived:
-    - {folder: "current/2016/6oct", name: "6 October 2016", class: "ev2016"}
+    - {folder: href="current/2016/6oct", name: "6 October 2016", class: "ev2016"}
             
 ---
 # Archive

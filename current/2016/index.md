@@ -5,6 +5,7 @@ layout: 2016-events
 rootpath: "../../"
 is_index: true
 season: "2016 events"
+artist: "<br>2016"
 
 ---
 On [6 October 2016](/current/2016/6oct), Divergency hosted its first event, showcasing seven seed-funded early stage works…

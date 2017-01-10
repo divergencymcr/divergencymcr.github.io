@@ -20,7 +20,7 @@ header_image: "header_19jan.jpg"
 
 ---
 ### MIXOLOGY     
-##  Thursday 19 January 2017, evening<br>STUN Studio at Z-arts   
+## Thursday 19 January 2017, evening<br>STUN Studio at Z-arts   
 
 In May 2014, we invited a diverse group of artists to come together for a meal, a glass of wine and a conversation about Live Art and cultural diversity. And so, Divergency was born… 
 

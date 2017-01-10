@@ -5,7 +5,7 @@ layout: artist
 rootpath: "../../"
 is_index: true
 season: "artists"
-artist: "Artists"
+artist: "<br>Artists"
 
 ---
 Divergency is an informal network, supporting a small group of culturally diverse artists to explore live art in their practice. Bringing together both new artists and those experienced in different artforms, Divergency is a year-round programme of exploring and making, watching and talking.        

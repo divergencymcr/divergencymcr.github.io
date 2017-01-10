@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 layout: history
-rootpath: "../"
+rootpath: "../../"
 is_index: true
 season: "archive"
 artist_name: "<br>Archive" 

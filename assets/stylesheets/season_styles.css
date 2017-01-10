@@ -24,14 +24,14 @@
 	.splash
 		{background:url(../images/header_div.png) center center}
 
-/* 2016 Events use Chanje + Div logo header
+/* 2016 events currently have no bodyclass, hence no header
 ------------------------------------------------------*/
 
 	.ev2016 .splash
-		{background:url(../images/header_div_chanje.jpg) center center}
+		{background:url(../images/header_?.jpg) center center}
 
-/* 2017 Events use white div logo on orange
+/* 2017 events currently have no bodyclass, hence no header
 ------------------------------------------------------*/
 
 	.ev2017 .splash
-		{background:url(../images/header_div_or.jpg) center center}
+		{background:url(../images/header_?.jpg) center center}

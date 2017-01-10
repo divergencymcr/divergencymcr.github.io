@@ -11,6 +11,7 @@ show: "An evening of the different." # the name of the show
 artist_size: 1
 show_size: 3
 season: "Thu 6 Oct 2016"
+header_image: "header_div_chanje.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,7 +21,7 @@ season: "Thu 6 Oct 2016"
 ---
 *Presented by* Word of Warning, STUN *+* Black Gold Arts Festival         
          
-### Thursday 6 October 2016, 6-10pm<br>Z-arts (incl. STUN Studio)    
+### Thursday 6 October 2016, 6-10pm<br>at Z-arts (incl. STUN Studio)    
 An evening of tabletop performances, installations and sit-down shows…          
 A unique insight into eight new works in various stages of development, from first sketches to ready-to-go shows, featuring:             
          

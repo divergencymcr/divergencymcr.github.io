@@ -33,5 +33,7 @@ So - if you are a BAME artist, however experienced or emerging, with an interest
 
 There’ll be food, there’ll be talk, there’ll be a bit of performance - and we might even be mixing our drinks…
 
-If you’re interested in joining us - and so we can get an idea on numbers for food - please RSVP  to divergency@habmcr.org
-        
+We would love for you to join us, and we have narrowed the time of the event down to ‘evening’ so we can get an idea on numbers for food and for booking purposes.   
+So if you’re interested - please RSVP  to <mailto:divergency@habmcr.org> and let us know a little something about yourself...       
+
+

@@ -26,18 +26,18 @@ An evening of tabletop performances, installations and sit-down shows…
 A unique insight into eight new works in various stages of development, from first sketches to ready-to-go shows, featuring:             
          
 **Installation: 6-8.30pm. FREE**            
-Jamil E-R Keating | *Asteroid RK1*        
-Chelsea Morgan | *Tented*             
-Yvonne Shelton | *Testimony*         
+<a href="http://www.wordofwarning.org/archive/2016-divergency/keating" target="_blank">Jamil E-R Keating | *Asteroid RK1*</a>        
+<a href="http://www.wordofwarning.org/archive/2016-divergency/morgan" target="_blank">Chelsea Morgan | *Tented*</a>             
+<a href="http://www.wordofwarning.org/archive/2016-divergency/shelton" target="_blank">Yvonne Shelton | *Testimony*</a>         
          
 **Tabletop Trio: 6pm. £6/3** (*very limited capacity*)      
-Maya Chowdhry | *Peas on Earth*        
-Afreena Islam | *Daughters of the Curry Revolution*        
-Toni-Dee Paul | *My Father's Kitchen*        
+<a href="http://www.wordofwarning.org/archive/2016-divergency/chowdhry" target="_blank">Maya Chowdhry | *Peas on Earth*</a>        
+<a href="http://www.wordofwarning.org/archive/2016-divergency/islam" target="_blank">Afreena Islam | *Daughters of the Curry Revolution*</a>        
+<a href="http://www.wordofwarning.org/archive/2016-divergency/paul" target="_blank">Toni-Dee Paul | *My Father's Kitchen*</a>        
          
 **Double Bill: 8.30pm. £6/3**          
-Chanje Kunda | *Superposition*         
-Cheryl Martin | *Who Wants to Live Forever (extract)*          
+<a href="http://www.wordofwarning.org/archive/2016-divergency/kunda" target="_blank">Chanje Kunda | *Superposition*</a>         
+<a href="http://www.wordofwarning.org/archive/2016-divergency/martin" target="_blank">Cheryl Martin | *Who Wants to Live Forever (extract)*</a>          
          
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.         
          

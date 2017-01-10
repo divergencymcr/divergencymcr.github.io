@@ -6,11 +6,11 @@ rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "a new event - artist" # the name of the artist or company
-show: "a new event - show" # the name of the show
+artist: "Mixology" # the name of the artist or company
+show: "Come & discover more about Divergency" # the name of the show
 artist_size: 1
 show_size: 2
-season: "Thu 19 Jan 2017"
+season: "Mixology, Thu 19 Jan 2017"
 header_image: "header_19jan.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,5 +19,5 @@ header_image: "header_19jan.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-#### Ipsum lorem        
+### Thursday 19 Januray 2017, eveningm<br>in the STUN Studio at Z-arts        
 Ipsum lorem        

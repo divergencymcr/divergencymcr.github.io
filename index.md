@@ -6,7 +6,7 @@ season: "homepage"
 ---  
 
 
-## Mixology
+## Mixology 2017...
 
 ### On [Thursday 19 January](/current/2017/19jan) Divergency invites you to come and join us to mix things up a bit..
   

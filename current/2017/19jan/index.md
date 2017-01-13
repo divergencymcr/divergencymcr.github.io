@@ -19,7 +19,6 @@ header_image: "header_19jan.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-### MIXOLOGY
      
 ####  Thursday 19 January 2017, evening<br>STUN Studio at Z-arts   
 

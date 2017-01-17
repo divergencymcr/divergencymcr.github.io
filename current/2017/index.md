@@ -9,5 +9,5 @@ artist: "<br>2017" # the name of the artist or company
 artist_size: 1
 
 ---
-In [January](/current/2017/19jan) 2017 there will be a mixing of the old and the new and a presenting of some small pieces of work… 
+In 2017 there will be a mixing of the old and the new and a presenting of some small pieces of work… 
 

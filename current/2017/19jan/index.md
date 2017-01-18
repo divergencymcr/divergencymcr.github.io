@@ -7,10 +7,10 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Mixology" # the name of the artist or company
-show: "Come & discover more about Divergency" # the name of the show
+show: "Come & discover more<br>about Divergency" # the name of the show
 artist_size: 1
 show_size: 5
-season: "Mixology, Thu 19 Jan 2017"
+season: "Mixology"
 header_image: "header_19jan.jpg"
 
 # ABOUT THE SHOW - LAYOUT

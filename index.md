@@ -9,4 +9,4 @@ season: "homepage"
 ## Divergency 2017
 
 
-### *Talking…Eating…Exploring…Making…* for more information contact <mailto:divergency@habmcr.org> 
+#### *A group of artists as diverse as their subject matter… meeting… talking… eating… exploring…* Click [here](/current/event) for what we've been up to or contact us at <mailto:divergency@habmcr.org> to get involved…    

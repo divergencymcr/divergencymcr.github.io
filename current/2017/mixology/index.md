@@ -20,7 +20,8 @@ header_image: "header_19jan.jpg"
 
 ---
      
-####  Date TBC, evening<br>STUN Studio at Z-arts   
+####   Mon 27 March, 2017 <br>STUN Studio at Z-arts     
+
 
 In May 2014, we invited a diverse group of artists to come together for a meal, a glass of wine and a conversation about Live Art and cultural diversity. And so, Divergency was born… 
 
@@ -32,7 +33,6 @@ In 2017 we’d like to mix things up - and we’d like to invite you to join us 
 There’ll be food, there’ll be talk, there’ll be a bit of performance - and we might even be mixing our drinks…
 So - if you are a BAME artist, however experienced or emerging, with an interest in exploring Live Art, We would love for you to join us.
 
-We have narrowed the time of the event down to ‘evening’ so we can get an idea on numbers for food and for booking purposes.   
-So if you’re interested - please RSVP  to <mailto:divergency@habmcr.org> and let us know a little something about yourself...       
+  
 
 

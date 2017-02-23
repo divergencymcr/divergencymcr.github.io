@@ -10,7 +10,7 @@ artist: "Mixology" # the name of the artist or company
 show: "Come & discover more<br>about Divergency" # the name of the show
 artist_size: 1
 show_size: 5
-season: "Mixology"
+season: "Mixology | 27/3/17"
 header_image: "header_19jan.jpg"
 
 # ABOUT THE SHOW - LAYOUT

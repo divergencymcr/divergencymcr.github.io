@@ -33,6 +33,10 @@ In 2017 we’d like to mix things up - and we’d like to invite you to join us 
 There’ll be food, there’ll be talk, there’ll be a bit of performance - and we might even be mixing our drinks…
 So - if you are a BAME artist, however experienced or emerging, with an interest in exploring Live Art, We would love for you to join us.
 
+So we can get an idea on numbers for food, and names, <a href="http://www.eventbrite.co.uk/e/mixology-2017-tickets-32231126166" target="_blank"> please book your free space.</a>"
+       
+Or email us at <mailto:divergency@habmcr.org> and let us know a little something about yourself...
+
   
 
 

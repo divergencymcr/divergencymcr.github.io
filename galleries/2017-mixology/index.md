@@ -13,17 +13,17 @@ more_url: "../../current/2017/mixology/"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Mixology March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix1.jpeg", artist: ""}
-    -   {file: "mix21.jpeg", artist: ""}
-    -   {file: "mix3.jpeg", artist: ""}
-    -   {file: "mix4.jpeg", artist: ""}
-    -   {file: "mix5.jpeg", artist: ""}
-    -   {file: "mix6.jpeg", artist: ""}
-    -   {file: "mix7.jpeg", artist: ""}
-    -   {file: "mix8.jpeg", artist: ""}
-    -   {file: "mix9.jpeg", artist: ""}
-    -   {file: "mix10.jpeg", artist: ""}
-    -   {file: "mix11.jpeg", artist: ""}
+    -   {file: "mix1.jpg", artist: ""}
+    -   {file: "mix2.jpg", artist: ""}
+    -   {file: "mix3.jpg", artist: ""}
+    -   {file: "mix4.jpg", artist: ""}
+    -   {file: "mix5.jpg", artist: ""}
+    -   {file: "mix6.jpg", artist: ""}
+    -   {file: "mix7.jpg", artist: ""}
+    -   {file: "mix8.jpg", artist: ""}
+    -   {file: "mix9.jpg", artist: ""}
+    -   {file: "mix10.jpg", artist: ""}
+    -   {file: "mix11.jpg", artist: ""}
 
 
 ---

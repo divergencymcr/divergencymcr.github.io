@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: archive
+layout: history
 season: "Galleries"
 
 archived:

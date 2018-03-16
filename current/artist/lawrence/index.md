@@ -21,6 +21,7 @@ season: "Amy Lawrence"
 Amy Lawrence is a multidisciplinary live and visual artist with a practice that encompasses facilitation, curation and creative producing.    
 
 #### *Untitled*                
+![](eyes.jpg)    
 
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.     
        

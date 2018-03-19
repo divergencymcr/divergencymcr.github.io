@@ -1,14 +1,11 @@
 ---
-
 # CONFIGURATION
-layout: artist
+layout: current-artists
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Mahboobeh Rajabi"
-show: 
 artist_size: 1
-show_size: 
 header_image: "header_mahboobeh.jpg"
 season: "Mahboobeh Rajabi"
 
@@ -18,14 +15,13 @@ season: "Mahboobeh Rajabi"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Mahboobeh Rajabi is a Digital Artist and theatre maker. She use different art forms such as dance, movement and digital skills like animation, as tools to shape her works.  Mahboobeh is passionate about creating innovative performances, using new methods and models of practice from untold cultural stories.      
-                      
-#### *After Persepolis*                
-The journey of a real Persian odyssey that continues into the present day.    
-![After Persepolis](classroom.jpg)      
-   
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.     
-       
+Mahboobeh Rajabi is a Digital Artist and theatre maker. She use different art forms such as dance, movement and digital skills like animation, as tools to shape her works. Mahboobeh is passionate about creating innovative performances, using new methods and models of practice from untold cultural stories.          
          
+#### *After Persepolis*           
+The journey of a real Persian odyssey that continues into the present day.         
+![After Persepolis](classroom.jpg)         
+         
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.        
+        
 #### Website          
-<a href="http://mahboobeh.co.uk/" target="_blank">mahboobeh.co.uk</a> 
+<a href="http://mahboobeh.co.uk" target="_blank">mahboobeh.co.uk</a>

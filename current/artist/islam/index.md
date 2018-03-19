@@ -1,7 +1,6 @@
 ---
-
 # CONFIGURATION
-layout: artist
+layout: current-artists
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -24,14 +23,9 @@ Her first solo work has been developed through Divergency and Works Ahead…
 "When I was little, I used to hang out at my dad's restaurant most weekends, back when they used to stay open until 5am. After a hard day's toil running around pretending to be him, I would fall asleep to the CCTV, my body on the chest freezer and my head resting on a pile of tablecloths."              
             
 In *Daughters…*, Afreena attempts to navigate her dad's journey to help her figure out her own…           
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oU1kXBP4Tg0?rel=0" frameborder="0" allowfullscreen></iframe>
-
-     
-
-
- 
+               
+<iframe width="640" height="360" src="http://www.youtube.com/embed/oU1kXBP4Tg0?rel=0" frameborder="0" allowfullscreen></iframe>         
+             
 "My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He's 84 now.    
          
 "I am a first generation Mancunian Bangladeshi called Afreena. I tried to leave home a few times, but the smell of my mum's curry always led me back. I'm the last child (as far as I know!) born to my dad. I'm 25 now."           

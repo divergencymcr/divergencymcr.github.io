@@ -1,18 +1,17 @@
 ---
-
 layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Divergency presents Mixology"
+title: "Divergency presents Mixology 2017"
 stylesheet: gallery.css
 
 header_url: "../../galleries"
 more_link: Mixology
-more_url: "../../current/2017/mixology/"
+more_url: "../../archive/event/mixology2017"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Mixology March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
     -   {file: "mix1.jpg", artist: ""}
     -   {file: "mix2.jpg", artist: ""}
     -   {file: "mix3.jpg", artist: ""}
@@ -24,6 +23,5 @@ gallery:
     -   {file: "mix9.jpg", artist: ""}
     -   {file: "mix10.jpg", artist: ""}
     -   {file: "mix11.jpg", artist: ""}
-
 
 ---

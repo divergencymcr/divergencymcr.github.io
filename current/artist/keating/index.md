@@ -1,7 +1,6 @@
 ---
-
 # CONFIGURATION
-layout: artist
+layout: current-artists
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -22,14 +21,12 @@ To date he has made small pieces for Hazard (as Tracey Lumpkin) and Emergency, r
          
 #### *Asteroid RK1*
 Rotations, revolutions, realisations…     
-    
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Vrnu78LFpY?rel=0" frameborder="0" allowfullscreen></iframe>               
+          
+<iframe width="640" height="360" src="http://www.youtube.com/embed/6Vrnu78LFpY?rel=0" frameborder="0" allowfullscreen></iframe>            
          
-
-An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.    
-
-This is an early work-in-development piece, after roughly a month of writing and research about the issues of homelessness in Manchester. Jamil worked with a theatre group at the Mustard Tree consisting of men who have slept rough on the streets.  He would like to continue to develop the work in conjunction with homeless people and aims to present it on the streets of Manchester for a homeless audience. He is due to develop the work over 2017, with the commissioning and presenting as part of SICK! Festival and Works Ahead.       
+An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.        
+          
+This is an early work-in-development piece, after roughly a month of writing and research about the issues of homelessness in Manchester. Jamil worked with a theatre group at the Mustard Tree consisting of men who have slept rough on the streets. He would like to continue to develop the work in conjunction with homeless people and aims to present it on the streets of Manchester for a homeless audience. He is due to develop the work over 2017, with the commissioning and presenting as part of SICK! Festival and Works Ahead.       
          
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North).         
          

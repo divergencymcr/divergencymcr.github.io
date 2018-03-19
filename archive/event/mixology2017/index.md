@@ -9,7 +9,7 @@ is_index: true
 artist: "Mixology" # the name of the artist or company
 show: "Come & discover more<br>about Divergency" # the name of the show
 artist_size: 1
-show_size: 5
+show_size: 4
 season: "Mixology 27|3|2017"
 header_image: "header_19jan.jpg"
 
@@ -19,7 +19,7 @@ header_image: "header_19jan.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-#### Monday 27 March 2017<br>STUN Studio at Z-arts     
+### Monday 27 March 2017 | STUN Studio at Z-arts     
            
 In May 2014, we invited a diverse group of artists to come together for a meal, a glass of wine and a conversation about Live Art and cultural diversity. And so, Divergency was born…         
          

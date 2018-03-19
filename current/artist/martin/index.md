@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: artist
 rootpath: "../../../"
@@ -23,11 +22,9 @@ Formerly Contact's Associate Director, New Writing/New Work, she's won several a
 Her one-woman show, *Alaska*, was part of 2015's Domestic II, 2016's A Nation's Theatre Festival at The Albany in London, 2015 + 2016's Flying Solo Festivals at Contact, and shown on her first visit to the Plymouth Fringe Festival as part of a national tour. Her current show has been developed through Divergency…         
          
 #### *Who Wants to Live Forever*         
-A jazz fantasy about loss, love and hope set among the stars. Combining science fact, real-world psychological observation, and autobiography with lots and lots of live jazz vocals to ask why some stars shine more brightly than others, human and celestial, and why people love to watch them fall.         
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2H1lJZwks8U?rel=0" frameborder="0" allowfullscreen></iframe>
-
-   
+A jazz fantasy about loss, love and hope set among the stars. Combining science fact, real-world psychological observation, and autobiography with lots and lots of live jazz vocals to ask why some stars shine more brightly than others, human and celestial, and why people love to watch them fall.           
+           
+<iframe width="640" height="360" src="http://www.youtube.com/embed/2H1lJZwks8U?rel=0" frameborder="0" allowfullscreen></iframe>         
          
 Created through heightened, imagistic language in a non-linear, impressionistic monologue, *Who Wants To Live Forever* has been made by Writer/Performer Cheryl Martin + Director/Deviser Darren Pritchard. The full-length premiere of the show will be presented as part of PUSH Festival at HOME in January 2017.           
          

@@ -1,7 +1,6 @@
 ---
-
 # CONFIGURATION
-layout: 2016-events
+layout: archive-events
 rootpath: "../../../"
 is_index: true
 
@@ -10,7 +9,7 @@ artist: "Divergency" # the name of the artist or company
 show: "An evening of the different." # the name of the show
 artist_size: 1
 show_size: 3
-season: "Thu 6 Oct 2016"
+season: "Showcase 6|10|2016"
 header_image: "header_div_chanje.jpg"
 
 # ABOUT THE SHOW - LAYOUT

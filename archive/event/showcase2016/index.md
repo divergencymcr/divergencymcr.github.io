@@ -5,10 +5,10 @@ rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Divergency showcase" # the name of the artist or company
+artist: "Showcase" # the name of the artist or company
 show: "An evening of the different." # the name of the show
-artist_size: 2
-show_size: 3
+artist_size: 1
+show_size: 4
 season: "Showcase 6|10|2016"
 header_image: "header_div_chanje.jpg"
 

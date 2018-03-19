@@ -1,14 +1,11 @@
 ---
-
 # CONFIGURATION
-layout: artist
+layout: current-artists
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Amy Lawrence"
-show: 
 artist_size: 1
-show_size: 
 header_image: "header_lawrence.jpg"
 season: "Amy Lawrence"
 
@@ -20,11 +17,10 @@ season: "Amy Lawrence"
 ---
 Amy Lawrence is a multidisciplinary live and visual artist with a practice that encompasses facilitation, curation and creative producing.    
 
-#### *Untitled*                
-![](eyes.jpg)    
-
-Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.     
-       
+#### *Untitled*                  
+![](eyes.jpg)       
+             
+Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.          
          
 #### Website          
-<a href="http://www.legroomspaceformoving.com/" target="_blank">legroomspaceformoving.com</a> 
+<a href="http://www.legroomspaceformoving.com" target="_blank">legroomspaceformoving.com</a>

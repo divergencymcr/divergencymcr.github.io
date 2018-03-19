@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Toni-Dee Paul"
 artist_size: 1
 header_image: "header_toni.jpg"
-season: Toni-Dee
+season: "Toni-Dee Paul"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values

@@ -15,17 +15,15 @@ season: "Nikky Norton Shafau"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Nikky Norton Shafau is an artist, poet and storyteller.    
+Nikky Norton is a poet and performance artist with a strange ambition to become a storybook.     
 
-#### *Becoming Storybook*                
-My name is Nikky. I am a little bit strange…        
-I want to become a Storybook.        
-On my 30th birthday in 2015 I decided to create my own job title.         
-JOB TITLE: Storybook        
-There you go. See.          
-Erm but I wasn't too sure what to do or where to start…          
-And so the adventure began trying and failing to become a book. I like the idea of entering the unknown…        
-        
+She takes inspiration from everyday experiences and interactions to inform where she should go next to achieve her transformation.    
+
+At present she creates bedtime stories and delivers magical story experiences in interesting spaces – chocolate boutiques, libraries and secret gardens.    
+
+#### *Inside Story*                
+This is the initial stage of exploring what it might look like to create a musical theatre experience taking inspiration from storybook aesthetics. The idea was to start to explore how visual imagery and costume could take the audience on a journey of transformation.    
+ 
 ![](nikky.jpg)       
         
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.       

@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default site styling: Orange background, header & no quote colour
+/* default site styling incl homepage: Orange background, header & no quote colour
 ------------------------------------------------------*/
 
 	body,
@@ -22,16 +22,10 @@
 		{background:#000; color:#f93;}
 
 	.splash
-		{background:url(../images/header_div.png) center center}
+		{background:url(../images/header_div.png) -150px center}
 
-/* 2016 events currently have no bodyclass, hence no header
+/* future events may need a header, but currently have no bodyclass
 ------------------------------------------------------*/
 
-	.ev2016 .splash
-		{background:url(../images/header_?.jpg) center center}
-
-/* 2017 events currently have no bodyclass, hence no header
-------------------------------------------------------*/
-
-	.ev2017 .splash
+	.evXXX .splash
 		{background:url(../images/header_?.jpg) center center}

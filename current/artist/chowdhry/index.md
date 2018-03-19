@@ -1,14 +1,11 @@
 ---
-
 # CONFIGURATION
-layout: artist
+layout: current-artists
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Maya Chowdhry"
-show: 
 artist_size: 1
-show_size: 
 header_image: "header_chowdhry.jpg"
 season: "Maya Chowdhry"
 

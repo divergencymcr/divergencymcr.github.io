@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: artist
+layout: current-artists
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC

@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: current-artist
+layout: current-artists
 rootpath: "../../"
 is_index: true
 season: "artists"

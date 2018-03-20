@@ -16,10 +16,6 @@ p
 	{font-size:18px;}
 #header #info
 	{display: block;}
-#header:hover 
-	{background: #f93; cursor:pointer;}
-#header:hover #info
-	{display: block;}
 		
 a, a:visited, a:hover
 	{color: #fff; font-weight:bold; display:block; text-decoration:none;}

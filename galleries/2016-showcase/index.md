@@ -3,25 +3,20 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Divergency: Mixology gallery 27|3|2017"
+title: "Divergency: Showcase gallery 6|10|2016"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Mixology (2017)
-more_url: "../../archive/event/mixology2017"
+more_link: Showcase (2016)
+more_url: "../../archive/event/showcase2016"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix1.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix2.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix3.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix4.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix5.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix6.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix7.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix8.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix9.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix10.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-    -   {file: "mix11.jpg", artist: "<small>Mixology, March 2017</small>", show: "<small>Images copyright &copy;2017 Divergency</small>"}
-
+    -   {file: "titlepage.jpg", artist: "<small>Showcase, October 2016 | Chanje Kunda; image design Lwimbo Kunda</small>", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    -   {file: "afreena.jpg", artist: "Afreena Islam", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    -   {file: "chanje.jpg", artist: "Chanje Kunda", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    -   {file: "jamil.jpg", artist: "Jamil E-R Keating", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    -   {file: "maya.jpg", artist: "Maya Chowdhry", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    -   {file: "toni1.jpg", artist: "Toni-Dee Paul", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    -   {file: "toni2.jpg", artist: "Toni-Dee Paul", show: "<small>Images copyright &copy;2016 Divergency</small>"}
+    
 ---

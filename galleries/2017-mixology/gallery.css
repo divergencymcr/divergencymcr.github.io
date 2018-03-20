@@ -12,11 +12,9 @@ p
 	{font-size:18px; margin-left:20px; color: #000; text-shadow: none;}
 #header
 	{width:130px;padding:20px;}	
+#header
+	{font-size:30px;}
 #header #info
-	{display:none;}
-#header:hover 
-	{background: #fff; cursor:pointer;}
-#header:hover #info
 	{display: block;}
 		
 a, a:visited, a:hover

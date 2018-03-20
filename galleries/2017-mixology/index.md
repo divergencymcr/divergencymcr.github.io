@@ -7,7 +7,7 @@ title: "Divergency: Mixology gallery 27|3|2017"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Mixology (2017)
+more_link: Mixology
 more_url: "../../archive/event/mixology2017"
 
 gallery:

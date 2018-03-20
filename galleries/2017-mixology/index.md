@@ -3,11 +3,11 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Divergency presents Mixology 27|3|2017"
+title: "Divergency: Mixology gallery 27|3|2017"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Mixology
+more_link: Mixology (2017)
 more_url: "../../archive/event/mixology2017"
 
 gallery:

@@ -15,11 +15,11 @@ p
 #header #info
 	{display:none;}
 #header:hover 
-	{background: #f93; cursor:pointer;}
+	{background: #fff; cursor:pointer;}
 #header:hover #info
 	{display: block;}
 		
 a, a:visited, a:hover
-	{color: #000; font-weight:bold; display:block; text-decoration:none;}
+	{color: #f93; font-weight:bold; display:block; text-decoration:none;}
 a:hover
 	{text-decoration:underline;}

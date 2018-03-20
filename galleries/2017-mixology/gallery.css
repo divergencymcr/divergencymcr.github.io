@@ -15,6 +15,10 @@ p
 #header
 	{font-size:18px;}
 #header #info
+	{display: none;}
+#header:hover 
+	{background: #f93; cursor:pointer;}
+#header:hover #info
 	{display: block;}
 		
 a, a:visited, a:hover

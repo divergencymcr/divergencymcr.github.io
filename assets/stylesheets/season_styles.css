@@ -24,8 +24,26 @@
 	.splash
 		{background:url(../images/header_div.png) -150px center}
 
-/* future events may need a header, but currently have no bodyclass
+/* Events (generic): Toni & her Dad on cyc
 ------------------------------------------------------*/
 
-	.evXXX .splash
-		{background:url(../images/header_?.jpg) center center}
+	.events .splash
+		{background:url(../images/header_toni.jpg) center center}
+
+/* Artists (generic): Afreena powder
+------------------------------------------------------*/
+
+	.artists .splash
+		{background:url(../images/header_afreena.jpg) center center}
+
+/* Mixology March 2017: pic of vase with lights
+------------------------------------------------------*/
+
+	.mixology .splash
+		{background:url(../images/header_mixology.jpg) center center}
+
+/* Showcase October 2016: Chanje starlight header
+------------------------------------------------------*/
+
+	.showcase .splash
+		{background:url(../images/header_chanje.jpg) center center}

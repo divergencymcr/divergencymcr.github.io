@@ -4,8 +4,8 @@ layout: archive
 season: "archives"
 
 archived:
-    - {folder: "event", name: "Previous events", class: "events"}
-    - {folder: "artist", name: "Former artists", class: "artists"}
+    - {folder: "event", name: "Previous Events", class: "events"}
+    - {folder: "artist", name: "Former Artists", class: "artists"}
     
 ---
 # Archives

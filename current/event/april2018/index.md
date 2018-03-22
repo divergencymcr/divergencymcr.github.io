@@ -1,17 +1,17 @@
 ---
 
 # CONFIGURATION
-layout: archive-events
+layout: current-events
 rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Mixology" # the name of the artist or company
-show: "Come & discover<br>more about us…" # the name of the show
+artist: "TBC" # the name of the artist or company
+show: "what is it…" # the name of the show
 artist_size: 1
-show_size: 4
-season: "Mixology 27|3|2017"
-header_image: "header_19jan.jpg"
+show_size: 2
+season: "new event x|x|2018"
+header_image: "header_vase.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,7 +19,7 @@ header_image: "header_19jan.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-### Monday 27 March 2017 | STUN Studio at Z-arts     
+### when in 2018 | STUN Studio at Z-arts     
            
 In May 2014, we invited a diverse group of artists to come together for a meal, a glass of wine and a conversation about Live Art and cultural diversity. And so, Divergency was born…         
          

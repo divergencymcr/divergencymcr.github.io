@@ -3,8 +3,8 @@
 layout: contact
 rootpath: "../../"
 is_index: true
-season: "contact & partners"
-artist: "<br>Contact & Partners"
+season: "contacts & partners"
+artist: "Contacts & Partners"
 
 ---
 Based in the hÅb office at Z-arts, Manchester, we can be reached by email: <mailto:divergency@habmcr.org>        

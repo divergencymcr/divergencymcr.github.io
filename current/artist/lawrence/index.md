@@ -19,7 +19,7 @@ Amy Lawrence is a Manchester-based interdisciplinary artist, curator and facilit
 
 #### *Girl Chat* 
 A series of scored conversations between Black and Minority Ethnic young women and the artist, Amy Lawrence. The first iteration of this project was created with support from Divergency and featured participation by artists Henrietta Phoebe Dunn and Diana Tap. The project took the form of a Skype conversation, photo booth video, video diary by the artist, recorded phone calls shared between the artist and the participants after they had recieved a score to follow via email, creating a series of abstracted conversations concerning race and gender that took place in the homes of the participants over 1 hour. The resulting footage and audio was then edited into a 20 minute video and shown to the Divergency cohort. In this work Amy is investigating temporary structures for 'connecting' using basic technology and how we might attempt to connect with our own personal histories in a similar way alongside the ciclical nature of viewing.     
-![](eyes.jpg)       
+![](screenshot.jpg)       
              
 Developed as a Divergency micro-commission with support from hÅb + STUN (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.          
          

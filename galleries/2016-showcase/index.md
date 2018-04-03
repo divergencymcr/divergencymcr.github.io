@@ -11,7 +11,7 @@ more_link: Showcase (2016)
 more_url: "../../archive/event/showcase2016"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Showcase, October 2016 | Chanje Kunda"</small>", show: "<small>Image design & copyright &copy;2016 Lwimbo Kunda</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Showcase, October 2016 | Chanje Kunda", show: "<small>Image design & copyright &copy;2016 Lwimbo Kunda</small>"}
     -   {file: "afreena1.jpg", artist: "Afreena Islam", show: "<small>Image copyright &copy;2016 Garry Cook</small>"}
     -   {file: "toni1.jpg", artist: "Toni-Dee Paul", show: "<small>Image copyright &copy;2016 Garry Cook</small>"}
     -   {file: "maya1.jpg", artist: "Maya Chowdhry", show: "<small>Image copyright &copy;2016 Garry Cook</small>"}

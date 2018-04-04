@@ -1,16 +1,17 @@
 ---
 
 # CONFIGURATION
-layout: 2017-autumnwinter
+layout: archive-events
 rootpath: "../../../"
+is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Akeim Toussaint Buck" # the name of the artist or company
 show: "Windows of Displacement" # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "header_akeim.jpg"
 season: "Akeim Toussaint Buck 19|10|2017"
+header_image: "header_akeim.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -18,7 +19,7 @@ season: "Akeim Toussaint Buck 19|10|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Divergency*,* STUN *+* Word of Warning      
+*Presented by* Divergency, Sustained Theatre Up North + Word of Warning       
            
 #### In Brief     
 Personal stories, ancestral memory and the shifting politics of diaspora. An urgent story of the past, present and future told through dance, song and word.            

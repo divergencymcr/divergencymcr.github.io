@@ -44,7 +44,7 @@ Devised through extensive training in the s.o.r.p.l.u.s.i methodology at the YEM
 An interdisciplinary performance artist, Ria works within the mediums of devised theatre, performance, live art, video installation, photography, spoken word, site-specific + durational performance; often autobiographical, her work is concerned with memory, identity, communication and human relationships. She has been an associate lecturer at Falmouth University since 2010.           
            
 #### Credits         
-Writer + performer: Ria Hartley | Training + methodology: d’bi young anitafrika | Additional dramaturgy: Misri Dey | Additional direction: Leo Kay<br>Initial creation and development supported by Arts Council England + National Lottery Heritage Fund; further developed with support of the SOLO Contemporary Performance Forum + Apples and Snakes.         
+Writer + performer: Ria Hartley<br>Training + methodology: d'bi young anitafrika | Additional dramaturgy: Misri Dey | Additional direction: Leo Kay<br>Initial creation and development supported by Arts Council England + National Lottery Heritage Fund; further developed with support of the SOLO Contemporary Performance Forum + Apples and Snakes.         
          
 #### Websites    
 [www.riahartley.com](http://www.riahartley.com/matildaandme) | [@RiaJadeHartley](http://twitter.com/RiaJadeHartley)

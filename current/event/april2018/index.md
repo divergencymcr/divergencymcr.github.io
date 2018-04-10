@@ -19,9 +19,9 @@ header_image: "header_chanje.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-### Wed 18 April 6-9pm 2018 | STUN Studio at Z-arts     
+### Wed 18 April 6-9pm 2018 | STUN Studio at Z-arts | FREE     
            
-Workshop: Poetry in Motion    
+**Workshop: Poetry in Motion**    
 A creative workshop on poetic technique and how it can be used in dramatic narratives. Also exploring how poetic text and movement can be used together to create something visually and conceptually beautiful.       
 This workshop is suitable for artists at a range of stages - from emergent through to those looking for new inspiration in their practice.         
 

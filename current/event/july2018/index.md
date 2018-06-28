@@ -22,12 +22,12 @@ header_image: "header_nwando.jpg"
 ### Mon 23 July 6-9pm 2018 | STUN Studio at Z-arts | FREE     
            
 **Workshop: Afro-Futurism**    
-A creative workshop on poetic technique and how it can be used in dramatic narratives. Also exploring how poetic text and movement can be used together to create something visually and conceptually beautiful.             
-      
-This workshop is suitable for artists at a range of stages - from emergent through to those looking for new inspiration in their practice.         
+A movement workshop looking at Afro-diasporic dance and afrofuturism. Inspired by Haitian Folklore, ritual movement, rhythm and song, the workshop explores how this can create transcendental experiences and performances. The workshop joins the inner life of the imagination and ancestry with the outer life of being present in the space.            
 
-Chanje Kunda is a solo artist working nationally and internationally as both a poet and performance artist. Her last full length show, *Amsterdam*, fused spoken word with live art and was nominated for Best Studio Production by Manchester Theatre Awards and toured nationally and internationally 
-Her current show *Superposition* was developed through Divergency and supported by hÅb, Contact, STUN and Developed with The Lowry.    
+**About Nwando Ebizie**         
+Musician, producer, dancer, DJ and performance artist, Nwando, is a renaissance woman whose experimental presentations have dazzled audiences. She is a multidisciplinary artist whose work converges around performance art personas, Live Art, music, Neuroscience of Perceptual Phenomena and African diasporic ritualistic dance.     
 
-So — if you are a BAME artist, however experienced or emerging, with an interest in exploring Live Art, we would love for you to join us.   To request a place, please email us at <mailto:divergency@habmcr.org> and let us know a little something about yourself…     
+She has performed around the world including: Oi Futuro – Rio de Janeiro, Bonobo – Tokyo, and Mupa – Budapest and supported artists as diverse as Peaches and Charli XCX. Her 2016 debut EP was called ‘Fresh, Raw and Totally Unique’ by Gilles Peterson, receiving airplay on BBC 6 Music.     
+   
+If you are a BAME artist, however experienced or emerging, with an interest in exploring Live Art, we would love for you to join us.   To request a place, please email us at <mailto:divergency@habmcr.org> and let us know a little something about yourself…     
 

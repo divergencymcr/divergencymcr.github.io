@@ -10,7 +10,7 @@ artist: "Nwando Ebizie" # the name of the artist or company
 show: "Workshop: Afrofuturism" # the name of the show
 artist_size: 1
 show_size: 2
-season: "Afro-Futurism 25|7|2018"
+season: "Afro-Futurism 25|7|2018tbc"
 header_image: "header_nwando.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,7 +19,7 @@ header_image: "header_nwando.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-### Wed 25 July 6-9pm 2018 | STUN Studio at Z-arts | FREE     
+### Wed 25 July 6-9pm 2018 (date tbc) | STUN Studio at Z-arts | FREE     
            
 **Workshop: Afrofuturism**    
 A movement workshop looking at afro-diasporic dance and afrofuturism. Using ritualistic movement and rhythm, participants will explore how this can create transcendental experiences and performances. There will also be a provocation around futuristic fantasy and creating a persona of your future self, or design a new future. The workshop joins the inner life of the imagination and ancestry with the outer life of being present in the space.          

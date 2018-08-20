@@ -11,7 +11,7 @@ show: "A group meal + discussion" # the name of the show
 artist_size: 1
 show_size: 2
 season: "Mixology 18|9|2018"
-header_image: "header_19jan.jpg"
+header_image: "header_tarik.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values

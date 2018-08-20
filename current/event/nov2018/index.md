@@ -34,5 +34,7 @@ She regularly teaches at Queen Mary University London, Brunel University and Chi
 Stacy Makishi is a transplant from Hawaii. Like a bonsai plant, Stacy is small but old. She has been making art for over 30 years. A cross-fertilization of theatre, comedy, film and visual art, her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate. It ranges across solo performances for stage, large-scale outdoor participatory projects and intimate one-to-ones. Also a teacher, director and mentor in international demand, Makishi believes in art’s transformative power and strives to share her creative process with others in order to put more aloha into the world.     
    
 **To join the workshop:**       
-If you are an artist of colour, experienced, emerging or just plain curious about exploring live art, we would love for you to join us. To request a place, please email us at <mailto:divergency@habmcr.org>.          
+If you are an artist of colour, experienced, emerging or just plain curious about exploring live art, we would love for you to join us. To request a place, please email us at <mailto:divergency@habmcr.org>            
 
+**plus on Wed 21 Nov, 7pm at The Lowry | Pay What You Decide.**   
+<a href="https://www.thelowry.com/events/stacy-makishi" target="_blank">Stacy Makishi: *The Comforter*</a>         

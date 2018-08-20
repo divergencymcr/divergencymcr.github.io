@@ -10,7 +10,7 @@ artist: "Nwando Ebizie" # the name of the artist or company
 show: "Workshop: Afrofuturism" # the name of the show
 artist_size: 1
 show_size: 2
-season: "Afro-Futurism 25|7|2018tbc"
+season: "Afro-Futurism 25|7|2018"
 header_image: "header_nwando.jpg"
 
 # ABOUT THE SHOW - LAYOUT

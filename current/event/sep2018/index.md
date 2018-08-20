@@ -6,10 +6,10 @@ rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Mixology with Tarik Elmoutawakil" ### the name of the artist or company
-show: "A group meal + discussion" ### the name of the show
-artist_size: 1
-show_size: 2
+artist: "Mixology with Tarik Elmoutawakil" # the name of the artist or company
+show: "A group meal + discussion" # the name of the show
+artist_size: 3
+show_size: 3
 season: "Mixology 18|9|2018"
 header_image: "header_tarik.jpg"
 

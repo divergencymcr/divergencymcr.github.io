@@ -26,9 +26,9 @@ A renowned workshop wizard, performance provocateur and mischief mentor, Stacy M
 
 She regularly teaches at Queen Mary University London, Brunel University and Chichester. Recent international workshops include an Artsadmin Weekender; MIT; Harvard; UC Berkeley; The International Festival of the Black Sea, Turkey; Turku, Finland; Ljubljana Slovenia; Brut Festival Vienna, Austria and Thessaloniki, Greece.       
 ​
->*Stacy Makishi fed our souls with love and compassion and then she squeezed art out of us. It was the deepest and most heartfelt workshop I've ever attended* DIY 9 ‘Thou Shalt Not Bore God’ - Participant.      
+>*Stacy Makishi fed our souls with love and compassion and then she squeezed art out of us. It was the deepest and most heartfelt workshop I've ever attended*<br>DIY 9 ‘Thou Shalt Not Bore God’ participant.      
 
-​​>*Stacy Makishi is a master of mischief. She can draw out the creative juice from any situation in the most inspiring ways. She rocks!* ​Shlomo.     
+>*Stacy Makishi is a master of mischief. She can draw out the creative juice from any situation in the most inspiring ways. She rocks!* ​Shlomo.     
           
 **About Stacy Makishi**         
 Stacy Makishi is a transplant from Hawaii. Like a bonsai plant, Stacy is small but old. She has been making art for over 30 years. A cross-fertilization of theatre, comedy, film and visual art, her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate. It ranges across solo performances for stage, large-scale outdoor participatory projects and intimate one-to-ones. Also a teacher, director and mentor in international demand, Makishi believes in art’s transformative power and strives to share her creative process with others in order to put more aloha into the world.     

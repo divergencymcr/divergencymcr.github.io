@@ -6,7 +6,7 @@ rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Mixology" # the name of the artist or company
+artist: "Mixology with Tarik Elmoutawakil" # the name of the artist or company
 show: "A group meal + discussion" # the name of the show
 artist_size: 1
 show_size: 2

@@ -19,7 +19,7 @@ header_image: "header_19jan.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-### Thu 25 Oct 6-9pm 2018  | STUN Studio at Z-arts | FREE     
+### Thu 25 Oct 6-9pm 2018  | Z-arts | FREE     
            
 **Workshop: Approaches to Critical Writing**    
 How can artists and audiences sidestep the star rating format to give meaningful critical responses to watching performance? A workshop lead by Salome Wagaine.        

@@ -21,7 +21,7 @@ header_image: "header_makishiflip.jpg"
 ---
 ### Tue 20 Nov 6-9pm 2018  | STUN Studio at Z-arts | FREE     
            
-**Workshop: *Killing Time***    
+**Live Art Workshop: *Killing Time***    
 Do you kill your creative ideas before they’re born? Do you notice that the more time you have, the less you get done? Are you constantly getting in your own way?      
 
 Introducing *Killing Time*!     

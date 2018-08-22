@@ -7,9 +7,9 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Stacy Makishi" # the name of the artist or company
-show: "Workshop: Killing Time" # the name of the show
+show: "Live Art Workshop: Killing Time" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 3
 season: "Live Art 20|11|2018"
 header_image: "header_makishiflip.jpg"
 

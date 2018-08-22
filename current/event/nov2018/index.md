@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Stacy Makishi" # the name of the artist or company
-show: "Workshop: Live Art" # the name of the show
+show: "Workshop: Killing Time" # the name of the show
 artist_size: 1
 show_size: 2
 season: "Live Art 20|11|2018"
@@ -21,20 +21,25 @@ header_image: "header_makishiflip.jpg"
 ---
 ### Tue 20 Nov 6-9pm 2018  | STUN Studio at Z-arts | FREE     
            
-**Workshop: Live Art**    
-A renowned workshop wizard, performance provocateur and mischief mentor, Stacy Makishi has been arousing creativity around the world for over twenty years.        
+**Workshop: *Killing Time***    
+Do you kill your creative ideas before they’re born? Do you notice that the more time you have, the less you get done? Are you constantly getting in your own way?      
 
-She regularly teaches at Queen Mary University London, Brunel University and Chichester. Recent international workshops include an Artsadmin Weekender; MIT; Harvard; UC Berkeley; The International Festival of the Black Sea, Turkey; Turku, Finland; Ljubljana Slovenia; Brut Festival Vienna, Austria and Thessaloniki, Greece.       
-​
->*Stacy Makishi fed our souls with love and compassion and then she squeezed art out of us. It was the deepest and most heartfelt workshop I've ever attended*<br>DIY 9 ‘Thou Shalt Not Bore God’ participant.      
+Introducing *Killing Time*!     
+This workshop that galvanizes participants to:      
+Move faster than think    
+Create faster than critique      
+Resist resistance      
+Pulverize procrastination.    
 
->*Stacy Makishi is a master of mischief. She can draw out the creative juice from any situation in the most inspiring ways. She rocks!* ​Shlomo.     
-          
+*Killing Time* is a physical workshop that welcomes anyone who is curious about live art and performance. One must have a willingness to try out new ideas and an adventurous spirit to walk out into the unknown.     
+            
 **About Stacy Makishi**         
-<a href="https://www.stacymakishi.co.uk" target="_blank">Stacy Makishi</a> is a transplant from Hawaii. Like a bonsai plant, Stacy is small but old. She has been making art for over 30 years. A cross-fertilization of theatre, comedy, film and visual art, her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate. It ranges across solo performances for stage, large-scale outdoor participatory projects and intimate one-to-ones. Also a teacher, director and mentor in international demand, Makishi believes in art’s transformative power and strives to share her creative process with others in order to put more aloha into the world.     
-   
+Hawaii born <a href="https://www.stacymakishi.co.uk" target="_blank">Stacy Makishi</a> frolics with many forms including live art, film, visual art and physical theatre. She has performed at the Queen Elizabeth Hall, Royal Albert Hall, TATE Modern and at the San Francisco Museum of Modern Art. Stacy Makishi has over twenty years experience as a facilitator and has been carefully cultivating crafty ways to catch artists off-guard. She has taught at Harvard, MIT, UC Berkeley, Wellesley College and University of Massachusetts and has been resident artist and guest lecturer at Queen Mary University, London.      
+  
 **To join the workshop:**       
 If you are an artist of colour, experienced, emerging or just plain curious about exploring live art, we would love for you to join us. To request a place, please email us at <mailto:divergency@habmcr.org>            
 
 **plus on Wed 21 Nov, 7pm at The Lowry | Pay What You Decide.**   
-<a href="https://www.thelowry.com/events/stacy-makishi" target="_blank">Stacy Makishi: *The Comforter*</a>         
+<a href="https://www.thelowry.com/events/stacy-makishi" target="_blank">Stacy Makishi: *The Comforter*</a>    
+![About Time](about_time.jpg)     
+

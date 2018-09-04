@@ -19,7 +19,7 @@ header_image: "header_tarik.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-### Tue 18 Sep 6-9pm 2018  | STUN Studio at Z-arts | FREE     
+### Tue 18 Sep 6-9pm 2018  | Z-arts | FREE     
            
 **Mixology**    
 Challenging the barriers encountered by artists of colour exploring Live Art. A group meal + discussion, with guest Tarik Elmoutawakil.

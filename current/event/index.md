@@ -7,4 +7,4 @@ season: "events"
 artist: "Events"
 
 ---
-Spring begings by focusing on the early stages of making new work - with a series of three sessions led by Season Butler.      
+Spring begins by focusing on the early stages of making new work - with a series of three sessions led by Season Butler.      

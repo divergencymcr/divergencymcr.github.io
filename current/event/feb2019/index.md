@@ -19,9 +19,9 @@ header_image: "header_season.jpg"
 # header_image: # optional custom background image, relative to current page
 
 ---
-##### Workshop One: Fri 1 Feb 5.30-8.30pm | The Yard, M15 5RF | FREE           
-##### Informal group session: Tue 26 Feb, 6-9pm | The Yard, M15 5RF | FREE       
-##### Workshop Two: Wed 6 Mar 5.30-8.30pm  | STUN Studio at Z-arts, M15 5ZA | FREE        
+#### Workshop One: Fri 1 Feb 5.30-8.30pm | The Yard, M15 5RF | FREE           
+#### Informal group session: Tue 26 Feb, 6-9pm | The Yard, M15 5RF | FREE       
+#### Workshop Two: Wed 6 Mar 5.30-8.30pm  | STUN Studio at Z-arts, M15 5ZA | FREE        
      
 **Live Art Workshop**    
 This is a practice based series of sessions focusing on developing the beginnings of a new piece of solo work, with an opportunity to work informally as a group between workshops.   

@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: current-events
+layout: archive-events
 rootpath: "../../../"
 is_index: true
 

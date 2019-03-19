@@ -6,7 +6,7 @@ rootpath: "../../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "" # the name of the artist or company
+artist: # the name of the artist or company
 show: "Funding Workshop" # the name of the show
 artist_size: 1
 show_size: 3

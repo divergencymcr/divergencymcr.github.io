@@ -26,10 +26,11 @@ header_image:
 A practical look at the ins and the outs, tips and wrinkles of getting projects funded, with particular focus on National Lottery Project Grants.      
   
 **National Lottery Project Grants Surgery** with Arts Council England  Relationship Manager, Nikki Harrison (Combined Arts)
-An introduction to Arts Council England’s open access fund for new ideas, new talent and new approaches in the arts, the session will include –
+An introduction to Arts Council England’s open access fund for new ideas, new talent and new approaches in the arts, the session will include:      
+
 Part 1: Presentation about the Arts Council, the kind of funding they offer, activities they fund, information about Project Grants and how to apply. There will also be time built in for Q&A.       
 
-Part 2: 1:1 pre-booked sessions. Limited availability, add 1:1 ticket to your <a href="https://www.eventbrite.co.uk/e/divergency-funding-workshop-tickets-59051713264"> Eventbrite booking</a>. It would help if you could <mailto:divergency@habmcr.org> with a brief description of the project you want to discuss.            
+Part 2: 1:1 pre-booked sessions. Limited availability, add 1:1 ticket to your <a href="https://www.eventbrite.co.uk/e/divergency-funding-workshop-tickets-59051713264"> Eventbrite booking</a>. It would help if you could email <mailto:divergency@habmcr.org> with a brief description of the project you want to discuss.            
 
 **Funding Knowledge Share** - an open information sharing session where Divergency member artists are invited to discuss and share knowledge of their experience of other fundraising, such as Crowdfunding and Trusts and Foundations.     
   

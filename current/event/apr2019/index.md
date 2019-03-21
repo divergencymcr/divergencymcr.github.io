@@ -32,7 +32,11 @@ Part 1: Presentation about the Arts Council, the kind of funding they offer, act
 
 Part 2: 1:1 pre-booked sessions. Limited availability, add 1:1 ticket to your <a href="https://www.eventbrite.co.uk/e/divergency-funding-workshop-tickets-59051713264"> Eventbrite booking</a>. It would help if you could email <mailto:divergency@habmcr.org> with a brief description of the project you want to discuss.            
 
-**Funding Knowledge Share** - an open information sharing session where Divergency member artists are invited to discuss and share knowledge of their experience of other fundraising, such as Crowdfunding and Trusts and Foundations.     
+**Funding Knowledge Share**      
+**Crowdfunding can be fun!** with Chanje Kunda.       
+*"It's a great way to engage with people passionate about arts, and raise money for doing what you love. I can show you how."*       
+plus      
+An open information sharing session where Divergency member artists are invited to discuss and share knowledge of their experience of other fundraising, such as Crowdfunding and Trusts and Foundations.     
   
 **To join the workshop:**       
 If you define as diverse, BAME or as an artist of colour; experienced, emerging or just plain curious about exploring live art, we would love for you to join us. Book your place<a href="https://www.eventbrite.co.uk/e/divergency-funding-workshop-tickets-59051713264"> here</a>.  

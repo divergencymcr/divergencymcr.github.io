@@ -19,7 +19,7 @@ header_image:
 # header_image: # optional custom background image, relative to current page
 
 ---
-### Date TBC at STUN Studio at Z-arts | FREE     
+### Divergency is currently on hiatus.     
            
 **Check back here for next workshop tba**         
 If you are a BAME artist, however experienced or emerging, with an interest in exploring Live Art, we would love for you to join us. To request a place, please email us at <mailto:divergency@habmcr.org> and let us know a little something about yourself…

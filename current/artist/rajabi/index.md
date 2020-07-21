@@ -20,7 +20,7 @@ Mahboobeh Rajabi is a Digital Artist and theatre maker. She use different art fo
 #### *Bored*          
 A video musing on the meaning of home in lockdown.     
 
-Please watch <a href="https://www.youtube.com/watch?v=AwZveRqxAWs&feature=youtu.be" target="_blank">*Bored* here</a>.      
+Please watch *Bored* <a href="https://www.youtube.com/watch?v=AwZveRqxAWs&feature=youtu.be" target="_blank"> here</a>.      
         
 #### *After Persepolis*           
 The journey of a real Persian odyssey that continues into the present day.         

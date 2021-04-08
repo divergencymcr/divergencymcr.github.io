@@ -16,7 +16,7 @@ gallery:
     -   {file: "chanje.jpg", artist: "<small>Chanje Kunda</small>"}
     -   {file: "christian.jpg", artist: "<small>Chrisitan Asaré</small>"}
     -   {file: "shkiesha.jpg", artist: "<small>Shkiesha</small>"}
-    -   {file: "mayajpg", artist: "<small>Maya Chowdhry</small>"}
+    -   {file: "maya.jpg", artist: "<small>Maya Chowdhry</small>"}
    
 
 ---

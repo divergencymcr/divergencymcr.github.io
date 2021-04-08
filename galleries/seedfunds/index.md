@@ -3,12 +3,12 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Divergency: Botanic 27|9|2020"
+title: "Divergency: Seedfunded Work 2017-19"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Botanic
-more_url: "http://www.wordofwarning.org/archive/2020-autumnwinter/botanic/"
+more_link:
+more_url: 
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Seedfund Commissions 2017-19</small>", show: "<small>Images copyright &copy; Divergency</small>"}

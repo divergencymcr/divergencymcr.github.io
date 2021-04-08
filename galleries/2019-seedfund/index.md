@@ -7,8 +7,8 @@ title: "Divergency: Seedfunded work 2017-19"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Botanic
-more_url: "http://www.wordofwarning.org/archive/2020-autumnwinter/botanic/"
+more_link: 
+more_url: ""
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Seedfunds 2017-2019</small>", show: "<small>Images copyright &copy; Divergency</small>"}

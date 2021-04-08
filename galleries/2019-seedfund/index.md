@@ -20,7 +20,7 @@ gallery:
     -   {file: "maya.jpg", artist: "<small>Maya Chowdhry</small>"}
     -   {file: "jamil.jpg", artist: "<small>Jamil Keating</small>"}
     -   {file: "amy.jpg", artist: "<small>Amy Lawrence</small>"}
-    -   {file: "nikkyl.jpg", artist: "<small>Nikky Norton Shafau</small>"}
+    -   {file: "nikky.jpg", artist: "<small>Nikky Norton Shafau</small>"}
     -   {file: "toni.jpg", artist: "<small>Toni Dee Paul</small>"}
     -   {file: "chanje2.jpg", artist: "<small>Chanje Kunda</small>"}
     -   {file: "tania.jpg", artist: "<small>Tania Camara</small>"}

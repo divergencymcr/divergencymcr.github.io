@@ -17,6 +17,7 @@ gallery:
     -   {file: "christian.jpg", artist: "<small>Chrisitan Asaré</small>"}
     -   {file: "shkiesha.jpg", artist: "<small>Shkiesha</small>"}
     -   {file: "maya.jpg", artist: "<small>Maya Chowdhry</small>"}
+    -   {file: "jamil.jpg", artist: "<small>Jamil Keating</small>"}
    
 
 ---

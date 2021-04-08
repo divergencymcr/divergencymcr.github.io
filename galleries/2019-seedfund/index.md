@@ -12,7 +12,7 @@ more_url:
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Seedfund Commissions 2017-19</small>", show: "<small>Images copyright &copy; Divergency</small>"}
-    -   {file: "afreena.jpg", artist: "<small>Afreena Isalam</small>", show: "<small>Daughters of the Curry Revolution</small>"}
+    -   {file: "afreena.jpg", artist: "<small>Afreena Islam</small>", show: "<small>Daughters of the Curry Revolution</small>"}
     -   {file: "chanje.jpg", artist: "<small>Chanje Kunda</small>", show: "<small>Superposition</small>"}
     -   {file: "chelsea.jpg", artist: "<small>Chelsea Morgan</small>", show: "<small>Tented</small>"}
     -   {file: "chelsea.jpg", artist: "<small>Cheryl Martin</small>", show: "<small>Who Wants to Live Forever</small>"}

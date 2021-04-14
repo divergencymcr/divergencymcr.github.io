@@ -15,9 +15,9 @@ season: "Chanje Kunda"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Chanje Kunda is a poet, playwright and performance artist. Her work explores 21st century life, and aims to use art as a tool to transform lives, shift consciousness and also bring joy to an otherwise serious and stressful modern existence. She predominately works as a solo artist in performance, across the literary, theatrical and live art sectors.      
+Chanje Kunda is a poet, playwright and performance artist. Her work explores 21st century life, and aims to use art as a tool to transform lives, shift consciousness and also bring joy to an otherwise serious and stressful modern existence. She predominantly works as a solo artist in performance, across the literary, theatrical and live art sectors.      
 
-She tours nationally and internationally. Poetry performance highlights include features at The Royal Albert Hall, London and the Calabash Literature Festival, Jamaica . During a 12 month artist residency in the Netherlands, she performed at festivals in Amsterdam, Rotterdam, Eindhoven and Groningen. Her poetry has also been published in literary magazine anthologies. She had a solo collection entitled ‘Amsterdam’ published by Crocus books.    
+She tours nationally and internationally. Poetry performance highlights include features at The Royal Albert Hall, London and the Calabash Literature Festival, Jamaica. During a 12 month artist residency in the Netherlands, she performed at festivals in Amsterdam, Rotterdam, Eindhoven and Groningen. Her poetry has also been published in literary magazine anthologies. She had a solo collection entitled ‘Amsterdam’ published by Crocus books.    
 
 As a performance artist she has presented work nationally and internationally, including at the Southbank, London 2016, The National Arts Festival of South Africa 2016, and the Harare International Festival of Arts, Zimbabwe 2017.  Solo theatre productions to date are ‘Blue Black Sister’ 2009 (Royal Exchange Theatre), ‘Amsterdam’ 2014 (Contact Theatre Commission), Superposition 2017 (The Lowry commission) and Plant Fetish (Home Mcr commission) 2019. Other international representation includes selection by the British Council for IETM conferences in Romania 2017 and Croatia 2019.   
 

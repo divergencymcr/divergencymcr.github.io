@@ -19,7 +19,8 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
 
 #### *Oreo*     
 A choreographic development, work-in-progress, for live streaming.<br><br>Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.         
-<iframe src="http://youtube.com/embed/3hAigduBYTA" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://youtube.com/embed/3hAigduBYTA" width="640" height="360" frameborder="0" allowfullscreen></iframe>     
+
  *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.<br><br>A semi-autobiographical solo about being a successfully educated black woman within western society, *OREO: variations* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.<br><br>Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.<br>
 
          

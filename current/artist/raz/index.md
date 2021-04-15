@@ -19,7 +19,7 @@ Avital Raz studied at The School of Visual Theatre in Jerusalem, before embarkin
 
 Two years ago, she started developing a controversial song into a solo show during a residency with Lancaster Arts, Making Room and hÅb:       
 
-####*My Jerusalem* 
+####*My Jerusalem*     
 A tale of a drunken one-night-stand infused with stories of growing up in 80's Israel, became a WorksAhead commission with hÅb/STUN + Contact with ACE support, mentored by Peader Kirk.     
 
 A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms.
